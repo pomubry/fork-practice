@@ -4,3 +4,5 @@
 <div>
   <p>I added a p after forking</p>
 </div>
+<span>Added a span to master</span>
+<span>Added another span to master</span>
